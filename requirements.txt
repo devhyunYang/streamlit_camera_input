@@ -5,4 +5,4 @@ tensorflow
 Pillow
 matplotlib
 yfinance
-cv2
+opencv-python-headless
