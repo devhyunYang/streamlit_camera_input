@@ -1,0 +1,8 @@
+torch
+numpy
+torchvision
+tensorflow
+Pillow
+matplotlib
+yfinance
+cv2
